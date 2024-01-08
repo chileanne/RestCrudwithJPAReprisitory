@@ -1,4 +1,4 @@
-package cub0.crudRestJpa.entity;
+package com.example.RestCrudwithJPAReprisitory.entity;
 
 import jakarta.persistence.*;
 

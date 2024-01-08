@@ -1,7 +1,8 @@
-package cub0.crudRestJpa.rest;
+package com.example.RestCrudwithJPAReprisitory.rest;
 
-import cub0.crudRestJpa.entity.Employee;
-import cub0.crudRestJpa.service.EmployeeService;
+
+import com.example.RestCrudwithJPAReprisitory.entity.Employee;
+import com.example.RestCrudwithJPAReprisitory.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

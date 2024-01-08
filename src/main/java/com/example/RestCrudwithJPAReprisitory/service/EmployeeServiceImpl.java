@@ -1,7 +1,8 @@
-package cub0.crudRestJpa.service;
+package com.example.RestCrudwithJPAReprisitory.service;
 
-import cub0.crudRestJpa.dao.EmployeeDAO;
-import cub0.crudRestJpa.entity.Employee;
+
+import com.example.RestCrudwithJPAReprisitory.dao.EmployeeDAO;
+import com.example.RestCrudwithJPAReprisitory.entity.Employee;
 import jakarta.transaction.Transactional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

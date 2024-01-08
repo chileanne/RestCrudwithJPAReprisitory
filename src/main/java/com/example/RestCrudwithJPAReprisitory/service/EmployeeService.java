@@ -1,6 +1,8 @@
-package cub0.crudRestJpa.service;
+package com.example.RestCrudwithJPAReprisitory.service;
 
-import cub0.crudRestJpa.entity.Employee;
+
+
+import com.example.RestCrudwithJPAReprisitory.entity.Employee;
 
 import java.util.List;
 

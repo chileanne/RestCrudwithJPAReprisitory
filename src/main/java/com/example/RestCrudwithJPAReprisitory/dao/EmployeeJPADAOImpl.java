@@ -1,6 +1,8 @@
-package cub0.crudRestJpa.dao;
+package com.example.RestCrudwithJPAReprisitory.dao;
 
-import cub0.crudRestJpa.entity.Employee;
+
+import com.example.RestCrudwithJPAReprisitory.dao.EmployeeDAO;
+import com.example.RestCrudwithJPAReprisitory.entity.Employee;
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.TypedQuery;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +12,7 @@ import java.util.List;
 
 
 @Repository
-public class EmployeeJPADAOImpl implements EmployeeDAO{
+public class EmployeeJPADAOImpl implements EmployeeDAO {
 
     private EntityManager entityManager;
 

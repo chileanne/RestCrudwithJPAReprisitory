@@ -1,6 +1,8 @@
-package cub0.crudRestJpa.dao;
+package com.example.RestCrudwithJPAReprisitory.dao;
 
-import cub0.crudRestJpa.entity.Employee;
+
+
+import com.example.RestCrudwithJPAReprisitory.entity.Employee;
 
 import java.util.List;
 
